@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Quantum bookStore.iml" filepath="$PROJECT_DIR$/Quantum bookStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quantum-Bookstore.iml" filepath="$PROJECT_DIR$/Quantum-Bookstore.iml" />
     </modules>
   </component>
 </project>
